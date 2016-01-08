@@ -1,0 +1,26 @@
+{
+  "name": "express_code_structure",
+  "version": "1.0.0",
+  "description": "Express code structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongleeuet/Express_code_structure.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "truonglee <truonglee.uet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongleeuet/Express_code_structure/issues"
+  },
+  "homepage": "https://github.com/truongleeuet/Express_code_structure#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongodb": "^2.1.3"
+  }
+}
